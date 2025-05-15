@@ -28,7 +28,7 @@ The Classic category leads in sales volume
 📈 Outcome:
 Delivered a strategic dashboard that helps optimize inventory, marketing, and operations!
 
-🔗 [Optional: Add link to GitHub repo or dashboard if public]
+
 
 💼 This project strengthened my:
 ✔ Data storytelling
